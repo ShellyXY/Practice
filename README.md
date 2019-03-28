@@ -1,2 +1,2 @@
 # Practice
-The NPWU Postgraduate Student Entrance examination C practice.
+The NWPU Postgraduate Student Entrance examination C practice.
